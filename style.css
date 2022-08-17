@@ -26,7 +26,7 @@ body {
   );
 }
 .image {
-  background-image: url("/images/hero-mobile.jpg");
+  background-image: url("./images/hero-mobile.jpg");
   object-fit: cover;
   background-size: 100% 100%;
   width: 100%;
